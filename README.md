@@ -1,6 +1,6 @@
 ## 🙋‍♂️Hello!!
 
-Chemometrician in trasition.
+Chemometrician >> Data Scientist || Data Analyst
 
 Migrating from MATLAB to Python and R
 
